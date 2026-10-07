@@ -1190,7 +1190,7 @@
                 <p>Curated fashion, tech & accessories with free shipping on your first order. Limited-time deals await.</p>
                 <div class="actions">
                     <button class="btn btn-primary" id="shopNow"><i class="fas fa-arrow-right"></i> Shop Now</button>
-                    <button class="btn btn-ghost" id="exploreDeals"><i class="fas fa-clock"></i> No Deals</button>
+                    <button class="btn btn-ghost" id="exploreDeals"><i class="fas fa-clock"></i> Explore Deals</button>
                 </div>
             </div>
         </section>
@@ -1396,7 +1396,7 @@
             role: 'Verified Buyer',
             avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=80&q=80',
             text: 'Fast shipping and excellent support. The product exceeded my expectations!',
-            stars: 5
+            stars: 6
         }, {
             name: 'Michael Lee',
             role: 'Frequent Shopper',
